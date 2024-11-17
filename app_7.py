@@ -8,7 +8,7 @@ from io                  import BytesIO
 
 # Set page config at the very beginning
 st.set_page_config(
-    page_title = 'Telemarketing analisys',page_title = 'Telemarketing analisys',page_title = 'Telemarketing analisys',page_title = 'Telemarketing analisys',
+    page_title = 'Telemarketing analisys',
     page_icon = 'telmarketing_icon.png',
     layout="wide",
     initial_sidebar_state='expanded'
